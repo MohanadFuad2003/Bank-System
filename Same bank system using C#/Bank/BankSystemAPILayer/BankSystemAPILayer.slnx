@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../BusinessAccsesLayer/BusinessAccsesLayer.csproj" />
+  <Project Path="../DataAcsessLayer/DataAcsessLayer.csproj" />
+  <Project Path="BankSystemAPILayer.csproj" />
+</Solution>

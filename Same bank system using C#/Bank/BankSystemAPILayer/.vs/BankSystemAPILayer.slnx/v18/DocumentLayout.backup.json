@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\BankSystemAPILayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA3094A-836A-10A3-AFDF-4E1038F1F803}|..\\BusinessAccsesLayer\\BusinessAccsesLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\bank\\bank\\businessaccseslayer\\bankclientbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA3094A-836A-10A3-AFDF-4E1038F1F803}|..\\BusinessAccsesLayer\\BusinessAccsesLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\bank\\bank\\businessaccseslayer\\fileregisterhowloginbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA3094A-836A-10A3-AFDF-4E1038F1F803}|..\\BusinessAccsesLayer\\BusinessAccsesLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\bank\\bank\\businessaccseslayer\\userbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E4C5EB-2617-1A10-DAC9-A60114E9121F}|..\\DataAcsessLayer\\DataAcsessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\bank\\bank\\dataacsesslayer\\dataacsesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E4C5EB-2617-1A10-DAC9-A60114E9121F}|..\\DataAcsessLayer\\DataAcsessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\bank\\bank\\dataacsesslayer\\bankclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E4C5EB-2617-1A10-DAC9-A60114E9121F}|..\\DataAcsessLayer\\DataAcsessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\bank\\bank\\dataacsesslayer\\bankclientdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E4C5EB-2617-1A10-DAC9-A60114E9121F}|..\\DataAcsessLayer\\DataAcsessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\bank\\bank\\dataacsesslayer\\fileregisterhowlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E4C5EB-2617-1A10-DAC9-A60114E9121F}|..\\DataAcsessLayer\\DataAcsessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\bank\\bank\\dataacsesslayer\\fileregisterhowlogindal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E4C5EB-2617-1A10-DAC9-A60114E9121F}|..\\DataAcsessLayer\\DataAcsessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\bank\\bank\\dataacsesslayer\\transferlogrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E4C5EB-2617-1A10-DAC9-A60114E9121F}|..\\DataAcsessLayer\\DataAcsessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\bank\\bank\\dataacsesslayer\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E4C5EB-2617-1A10-DAC9-A60114E9121F}|..\\DataAcsessLayer\\DataAcsessLayer.csproj|c:\\users\\mohan\\onedrive\\desktop\\bank\\bank\\dataacsesslayer\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataAcsessLayer",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\DataAcsessLayer.csproj",
+              "RelativeDocumentMoniker": "..\\DataAcsessLayer\\DataAcsessLayer.csproj",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\DataAcsessLayer.csproj",
+              "RelativeToolTip": "..\\DataAcsessLayer\\DataAcsessLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-01T14:35:41.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BankClient.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\BankClient.cs",
+              "RelativeDocumentMoniker": "..\\DataAcsessLayer\\BankClient.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\BankClient.cs",
+              "RelativeToolTip": "..\\DataAcsessLayer\\BankClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:35:39.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BankClientDAL.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\BankClientDAL.cs",
+              "RelativeDocumentMoniker": "..\\DataAcsessLayer\\BankClientDAL.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\BankClientDAL.cs",
+              "RelativeToolTip": "..\\DataAcsessLayer\\BankClientDAL.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAAALIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:35:21.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileRegisterHowLogin.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\FileRegisterHowLogin.cs",
+              "RelativeDocumentMoniker": "..\\DataAcsessLayer\\FileRegisterHowLogin.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\FileRegisterHowLogin.cs",
+              "RelativeToolTip": "..\\DataAcsessLayer\\FileRegisterHowLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:35:19.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FileRegisterHowLoginDAL.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\FileRegisterHowLoginDAL.cs",
+              "RelativeDocumentMoniker": "..\\DataAcsessLayer\\FileRegisterHowLoginDAL.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\FileRegisterHowLoginDAL.cs",
+              "RelativeToolTip": "..\\DataAcsessLayer\\FileRegisterHowLoginDAL.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:35:13.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TransferLogRecord.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\TransferLogRecord.cs",
+              "RelativeDocumentMoniker": "..\\DataAcsessLayer\\TransferLogRecord.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\TransferLogRecord.cs",
+              "RelativeToolTip": "..\\DataAcsessLayer\\TransferLogRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:35:12.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\User.cs",
+              "RelativeDocumentMoniker": "..\\DataAcsessLayer\\User.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\User.cs",
+              "RelativeToolTip": "..\\DataAcsessLayer\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:35:10.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\UserDAL.cs",
+              "RelativeDocumentMoniker": "..\\DataAcsessLayer\\UserDAL.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\DataAcsessLayer\\UserDAL.cs",
+              "RelativeToolTip": "..\\DataAcsessLayer\\UserDAL.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:34:51.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankClientBAL.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\BusinessAccsesLayer\\BankClientBAL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessAccsesLayer\\BankClientBAL.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\BusinessAccsesLayer\\BankClientBAL.cs",
+              "RelativeToolTip": "..\\BusinessAccsesLayer\\BankClientBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:20:25.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserBAL.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\BusinessAccsesLayer\\UserBAL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessAccsesLayer\\UserBAL.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\BusinessAccsesLayer\\UserBAL.cs",
+              "RelativeToolTip": "..\\BusinessAccsesLayer\\UserBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:19:46.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileRegisterHowLoginBAL.cs",
+              "DocumentMoniker": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\BusinessAccsesLayer\\FileRegisterHowLoginBAL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessAccsesLayer\\FileRegisterHowLoginBAL.cs",
+              "ToolTip": "C:\\Users\\mohan\\OneDrive\\Desktop\\Bank\\Bank\\BusinessAccsesLayer\\FileRegisterHowLoginBAL.cs",
+              "RelativeToolTip": "..\\BusinessAccsesLayer\\FileRegisterHowLoginBAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:19:20.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

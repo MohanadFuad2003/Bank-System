@@ -1,0 +1,15 @@
+C:\Users\mohan\source\repos\BusinessAccsesLayer\bin\Debug\net8.0\BusinessAccsesLayer.deps.json
+C:\Users\mohan\source\repos\BusinessAccsesLayer\bin\Debug\net8.0\BusinessAccsesLayer.dll
+C:\Users\mohan\source\repos\BusinessAccsesLayer\bin\Debug\net8.0\BusinessAccsesLayer.pdb
+C:\Users\mohan\source\repos\BusinessAccsesLayer\bin\Debug\net8.0\DataAcsessLayer.dll
+C:\Users\mohan\source\repos\BusinessAccsesLayer\bin\Debug\net8.0\DataAcsessLayer.pdb
+C:\Users\mohan\source\repos\BusinessAccsesLayer\obj\Debug\net8.0\BusinessAccsesLayer.csproj.AssemblyReference.cache
+C:\Users\mohan\source\repos\BusinessAccsesLayer\obj\Debug\net8.0\BusinessAccsesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohan\source\repos\BusinessAccsesLayer\obj\Debug\net8.0\BusinessAccsesLayer.AssemblyInfoInputs.cache
+C:\Users\mohan\source\repos\BusinessAccsesLayer\obj\Debug\net8.0\BusinessAccsesLayer.AssemblyInfo.cs
+C:\Users\mohan\source\repos\BusinessAccsesLayer\obj\Debug\net8.0\BusinessAccsesLayer.csproj.CoreCompileInputs.cache
+C:\Users\mohan\source\repos\BusinessAccsesLayer\obj\Debug\net8.0\Business.39BF9D7C.Up2Date
+C:\Users\mohan\source\repos\BusinessAccsesLayer\obj\Debug\net8.0\BusinessAccsesLayer.dll
+C:\Users\mohan\source\repos\BusinessAccsesLayer\obj\Debug\net8.0\refint\BusinessAccsesLayer.dll
+C:\Users\mohan\source\repos\BusinessAccsesLayer\obj\Debug\net8.0\BusinessAccsesLayer.pdb
+C:\Users\mohan\source\repos\BusinessAccsesLayer\obj\Debug\net8.0\ref\BusinessAccsesLayer.dll
