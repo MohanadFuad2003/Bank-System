@@ -1,0 +1,32 @@
+# Visual Studio and .NET build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.pdb
+*.ilk
+*.obj
+*.tlog
+*.lastbuildstate
+*.idb
+*.iobj
+*.ipdb
+*.exe
+*.dll
+*.cache
+
+# NuGet
+packages/
+*.nupkg
+
+# OS files
+Thumbs.db
+.DS_Store

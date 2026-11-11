@@ -1,4 +1,4 @@
-﻿using DataAcsessLayer;
+using DataAcsessLayer;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -9,7 +9,7 @@ namespace DataAcsessLayer
 
     public class FileRegisterHowLoginDAL
     {
-        static string connectionString = "server=.; Database=BANKDATABASE; User Id=sa; Password=123456; Encrypt=false;";
+        static string connectionString = "Server=.;Database=BANKDATABASE;Trusted_Connection=True;TrustServerCertificate=True;";
 
         public bool InsertLoginLog(FileRegisterHowLogin log)
         {
